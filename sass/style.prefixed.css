@@ -1,0 +1,32 @@
+/* Global */
+
+body {
+    font-size: 1em;
+    margin: 0;
+}
+
+.container {
+    max-width: 1140px;
+    width: 95%;
+}
+
+
+
+/* HEADER  */
+
+header {
+    display: -ms-flexbox;
+    display: flex;
+    height: 100vh;
+    background-color: rgb(207, 241, 252);
+    -ms-flex-pack: center;
+        justify-content: center;
+}
+
+.song-title {
+    margin: 50px;
+}
+
+.song-lyrics {
+    line-height: 1.5em;
+}
