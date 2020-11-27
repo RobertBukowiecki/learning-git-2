@@ -19,6 +19,7 @@
   "homepage": "https://github.com/RobertBukowiecki/learning-git-2#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
-    "browser-sync": "^2.26.13"
+    "browser-sync": "^2.26.13",
+    "html-validate": "^4.0.2"
   }
 }
