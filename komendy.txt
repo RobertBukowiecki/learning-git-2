@@ -1,0 +1,2 @@
+autoprefixer-cli -o sass/style.prefixed.css sass/style.css
+html-validate index.html
